@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kL/UOuPQwrJrT6NHuNlg1Q==
+SHA1-Digest: ilp00YwSDgovnPJn/A6fxRxLbbc=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1k3MyjN7U2WW1iFEzd1Icw==
+SHA1-Digest: hiAureydPUiKVxrGwv/RHDuBDYo=
+
+Name: chrome/content/browser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QA7rmk1W4SoD/p+F3laIUQ==
+SHA1-Digest: 8ZBNX4eXFW4dVbb5P7biYk3wv2E=
+
+Name: chrome/content/browser.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3Utfil89/3i/+ef5ahf4Qw==
+SHA1-Digest: Hv+I35Ia6BONiNganiMaXjWkF1w=
+
+Name: defaults/preferences/prefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zu8TVHPDLTUvYx+LK2T7LA==
+SHA1-Digest: B2vf12yfP/nyM2OzffLOG2pDjo8=
+
+Name: locale/en-US/translations.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hNL11C+c7VOJcQPk9LJg5A==
+SHA1-Digest: Yn9TN90v8KDfyx9hF9S6MeBBS4c=
+
+Name: skin/style.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OwV464DongF/D5WztqoACg==
+SHA1-Digest: D9KuIhYBHkbRZoCZAF0U0f+j9ao=
+

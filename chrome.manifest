@@ -1,0 +1,7 @@
+content     hovernofollow    chrome/content/
+content     hovernofollow    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://hovernofollow/content/browser.xul
+
+locale	hovernofollow	en-US	locale/en-US/
+
+skin	hovernofollow	classic/1.0	skin/

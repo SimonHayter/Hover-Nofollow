@@ -1,0 +1,3 @@
+a, a:hover,a:hover[rel~="nofollow"] {transition:all 0.2s ease-in;-moz-transition: all 0.2s ease-in;}
+a:hover{background:green!important;color:white!important;}
+a:hover[rel~="nofollow"] {background:red!important;color:black!important;}
